@@ -12,7 +12,7 @@ class YouTubeChennel {
 
 int main()
 {
-    
+    YouTubeChennel ytChehal;
 
 
     system("pause<0");
